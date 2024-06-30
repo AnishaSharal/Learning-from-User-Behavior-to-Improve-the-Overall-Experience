@@ -2,7 +2,7 @@
 ### Introduction: Enhancing User Experience through Behavioral Insights
 In today's digital landscape, understanding user behavior is key to improving platform experiences. By developing a model that tracks and analyzes user actions, we can personalize interactions and offer tailored recommendations, ensuring each user receives a customized and satisfying experience. This proactive approach aims to foster greater engagement and satisfaction by adapting to individual user preferences effectively.
 
-##Steps to Set Up and Run the Application
+## Steps to Set Up and Run the Application
 1. **open google colab**
 - Go to Google Colab (access through your browser)
 - Click on "File" in the top-left corner, then select "New Notebook." and upload the file.
